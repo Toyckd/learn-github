@@ -1,4 +1,4 @@
-# DSB-batch11
+# Learn Github
 ## Data Scienct Bootcamp Projects
 
 This bootcapm runs about 4 months, 10 sprint.
